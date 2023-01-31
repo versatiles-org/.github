@@ -10,4 +10,4 @@ The stack has 5 parts:
 - **cache** [CDN/nginx/...]()
 - **frontend** [MapLibre, styles, 3 fonts, ...](https://github.com/versatiles-org/versatiles-frontend)
 
-The core tool is called "[versatiles](https://crates.io/crates/versatiles)", is written in Rust, handles tile conversion and includes a full server.
+The core tool is called "[versatiles](https://github.com/versatiles-org/versatiles)", is written in Rust, handles tile conversion and includes a full server.
