@@ -2,7 +2,7 @@
 
 versatiles is a stack
 
-<img src="stack.svg">
+![](stack.svg)
 
 The stack has 5 parts:
 
