@@ -2,7 +2,7 @@
 
 versatiles is a stack
 
-![](stack.svg)
+<img src="https://github.com/versatiles-org/.github/raw/main/profile/stack.svg">
 
 The stack has 5 parts:
 
