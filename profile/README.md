@@ -1,4 +1,4 @@
-# versatiles is a stack
+# VersaTiles is a stack to generate and serve vector tiles
 
 <img src="https://github.com/versatiles-org/.github/raw/main/profile/stack.svg">
 
