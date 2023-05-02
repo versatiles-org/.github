@@ -1,4 +1,4 @@
-# versatiles is a stack
+# VersaTiles is a stack to generate and serve vector tiles
 
 <img src="https://github.com/versatiles-org/.github/raw/main/profile/stack.svg">
 
@@ -8,7 +8,7 @@ The stack has 5 parts:
 - **converter** [*.mbtiles -> *.versatiles](https://github.com/versatiles-org/versatiles-converter)
 - **server** [serves versatiles](https://github.com/versatiles-org/versatiles-server)
 - **cache** CDN/nginx/...
-- **frontend** [MapLibre, styles, 3 fonts, ...](https://github.com/versatiles-org/versatiles-frontend)
+- **frontend** [MapLibre, styles, fonts, symbols, ...](https://github.com/versatiles-org/versatiles-frontend)
 
 The core tool is called "[versatiles](https://github.com/versatiles-org/versatiles-rs)", is written in Rust, handles tile conversion and includes a full server.
 
