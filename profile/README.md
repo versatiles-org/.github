@@ -5,7 +5,7 @@
 The stack has 5 parts:
 
 - **[generator](https://github.com/versatiles-org/versatiles-generator):** [Tilemaker with Shortbread](https://github.com/versatiles-org/shortbread-tilemaker)
-- **[converter](https://github.com/versatiles-org/versatiles-converter):** converts *.mbtiles -> *.versatiles using the [VersaTiles tool](https://github.com/versatiles-org/versatiles-rs)
+- **[converter](https://github.com/versatiles-org/versatiles-converter):** converts *.mbtiles -> [*.versatiles](https://github.com/versatiles-org/versatiles-spec) using the [VersaTiles tool](https://github.com/versatiles-org/versatiles-rs)
 - **[server](https://github.com/versatiles-org/versatiles-documentation):** serves tiles
 - **[cache](https://github.com/versatiles-org/versatiles-documentation):** CDN/nginx/Let's Encrypt,...
 - **[frontend](https://github.com/versatiles-org/versatiles-frontend):** includes MapLibre, [styles](https://github.com/versatiles-org/versatiles-styles), [fonts](https://github.com/versatiles-org/versatiles-fonts), [symbols](https://github.com/versatiles-org/versatiles-sprites), ...
