@@ -16,288 +16,175 @@
   xmlns="http://www.w3.org/2000/svg"
   xmlns:svg="http://www.w3.org/2000/svg"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
- <g
-   id="g11">
-  <path
-    d="m 279.5,20 h 33.63"
-    fill="none"
-    stroke="#808080"
-    stroke-miterlimit="10"
-    pointer-events="stroke"
-    id="path1" />
-  <path
-    d="m 318.88,20 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-    fill="#808080"
-    stroke="#808080"
-    stroke-miterlimit="10"
-    pointer-events="all"
-    id="path2" />
-  <rect
-    x="160"
-    y="0"
-    width="120"
-    height="40"
-    fill-opacity="0.2"
-    fill="#ff0000"
-    stroke="#8f3d3d"
-    pointer-events="all"
-    id="rect2"
-    style="stroke-width:1" />
   <g
-    transform="translate(-0.5,-0.5)"
-    id="g2">
-   <switch
-     id="switch2">
-    <foreignObject
-      pointer-events="none"
-      width="100%"
-      height="100%"
-      requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-      style="overflow: visible; text-align: left;">
-     <xhtml:div
-       style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 20px; margin-left: 161px;">
-      <xhtml:div
-        data-drawio-colors="color: #8F3D3D; "
-        style="box-sizing: border-box; font-size: 0px; text-align: center;">
-       <xhtml:div
-         style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(143, 61, 61); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">tile generator</xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text
-      x="220"
-      y="24"
-      fill="#8f3d3d"
-      font-family="Helvetica"
-      font-size="12px"
-      text-anchor="middle"
-      >Generator</text>
-   </switch>
-  </g>
-  <path
-    d="m 439.5,20 h 33.63"
-    fill="none"
-    stroke="#808080"
-    stroke-miterlimit="10"
-    pointer-events="stroke"
-    id="path5" />
-  <path
-    d="m 479.37803,20 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-    fill="#808080"
-    stroke="#808080"
-    stroke-miterlimit="10"
-    pointer-events="all"
-    id="path6" />
-  <rect
-    x="320"
-    y="0"
-    width="120"
-    height="40"
-    fill-opacity="0.2"
-    fill="#ffff00"
-    stroke="#8f8f3d"
-    pointer-events="all"
-    id="rect6" />
-  <g
-    transform="translate(-160.00197,-0.5)"
-    id="g6">
-   <switch
-     id="switch6">
-    <foreignObject
-      pointer-events="none"
-      width="100%"
-      height="100%"
-      requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-      style="overflow: visible; text-align: left;">
-     <xhtml:div
-       style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 20px; margin-left: 481px;">
-      <xhtml:div
-        data-drawio-colors="color: #8F8F3D; "
-        style="box-sizing: border-box; font-size: 0px; text-align: center;">
-       <xhtml:div
-         style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(143, 143, 61); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">server</xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text
-      x="540"
-      y="24"
-      fill="#8f8f3d"
-      font-family="Helvetica"
-      font-size="12px"
-      text-anchor="middle"
-      >Server</text>
-   </switch>
-  </g>
-  <path
-    d="m 599.5,20 h 33.63"
-    fill="none"
-    stroke="#808080"
-    stroke-miterlimit="10"
-    pointer-events="stroke"
-    id="path7" />
-  <path
-    d="m 639.37803,20 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-    fill="#808080"
-    stroke="#808080"
-    stroke-miterlimit="10"
-    pointer-events="all"
-    id="path8" />
-  <rect
-    x="480"
-    y="0"
-    width="120"
-    height="40"
-    fill-opacity="0.2"
-    fill="#80ff00"
-    stroke="#668f3d"
-    pointer-events="all"
-    id="rect8"
-    style="fill:#00ff00;fill-opacity:0.2;stroke:#3d8f3d;stroke-opacity:1" />
-  <g
-    transform="translate(-160.00197,-0.5)"
-    id="g8">
-   <switch
-     id="switch8">
-    <foreignObject
-      pointer-events="none"
-      width="100%"
-      height="100%"
-      requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-      style="overflow: visible; text-align: left;">
-     <xhtml:div
-       style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 20px; margin-left: 641px;">
-      <xhtml:div
-        data-drawio-colors="color: #668F3D; "
-        style="box-sizing: border-box; font-size: 0px; text-align: center;">
-       <xhtml:div
-         style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(102, 143, 61); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">cache</xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text
-      x="700"
-      y="24"
-      fill="#3d8f3d"
-      font-family="Helvetica"
-      font-size="12px"
-      text-anchor="middle"
-      >Network</text>
-   </switch>
-  </g>
-  <rect
-    x="640"
-    y="0"
-    width="120"
-    height="40"
-    fill-opacity="0.2"
-    fill="#00ff00"
-    stroke="#3d8f3d"
-    pointer-events="all"
-    id="rect9"
-    style="fill:#00ffff;fill-opacity:0.2;stroke:#3d8f8f;stroke-opacity:1" />
-  <g
-    transform="translate(-160.00197,-0.5)"
-    id="g9">
-   <switch
-     id="switch9">
-    <foreignObject
-      pointer-events="none"
-      width="100%"
-      height="100%"
-      requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-      style="overflow: visible; text-align: left;">
-     <xhtml:div
-       style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 20px; margin-left: 801px;">
-      <xhtml:div
-        data-drawio-colors="color: #3D8F3D; "
-        style="box-sizing: border-box; font-size: 0px; text-align: center;">
-       <xhtml:div
-         style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(61, 143, 61); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">frontend</xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text
-      x="860"
-      y="24"
-      fill="#3d8f8f"
-      font-family="Helvetica"
-      font-size="12px"
-      text-anchor="middle"
-      >Frontend</text>
-   </switch>
-  </g>
-  <rect
-    x="0"
-    y="0"
-    width="120"
-    height="40"
-    fill="none"
-    stroke="none"
-    pointer-events="all"
-    id="rect10" />
-  <g
-    transform="translate(-0.5,-0.5)"
-    id="g10">
-   <switch
-     id="switch10">
-    <foreignObject
-      pointer-events="none"
-      width="100%"
-      height="100%"
-      requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-      style="overflow: visible; text-align: left;">
-     <xhtml:div
-       style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 118px; height: 1px; padding-top: 20px; margin-left: 0px;">
-      <xhtml:div
-        data-drawio-colors="color: #808080; "
-        style="box-sizing: border-box; font-size: 0px; text-align: right;">
-       <xhtml:div
-         style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(128, 128, 128); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">OSM</xhtml:div>
-      </xhtml:div>
-     </xhtml:div>
-    </foreignObject>
-    <text
-      x="118"
-      y="24"
+    id="g11">
+    <path
+      d="m 279.5,20 h 33.63"
+      fill="none"
+      stroke="#808080"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+      id="path1" />
+    <path
+      d="m 318.88,20 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
       fill="#808080"
-      font-family="Helvetica"
-      font-size="12px"
-      text-anchor="end"
-      id="text10">OSM</text>
-   </switch>
+      stroke="#808080"
+      stroke-miterlimit="10"
+      pointer-events="all"
+      id="path2" />
+    <rect
+      x="160"
+      y="0"
+      width="120"
+      height="40"
+      fill-opacity="0.2"
+      fill="#ff0000"
+      stroke="#8f3d3d"
+      pointer-events="all"
+      id="rect2"
+      style="stroke-width:1" />
+    <g
+      transform="translate(-0.5,-0.5)"
+      id="g2">
+      <text
+        x="220"
+        y="24"
+        fill="#8f3d3d"
+        font-family="Helvetica"
+        font-size="12px"
+        text-anchor="middle"
+      >Generator</text>
+    </g>
+    <path
+      d="m 439.5,20 h 33.63"
+      fill="none"
+      stroke="#808080"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+      id="path5" />
+    <path
+      d="m 479.37803,20 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
+      fill="#808080"
+      stroke="#808080"
+      stroke-miterlimit="10"
+      pointer-events="all"
+      id="path6" />
+    <rect
+      x="320"
+      y="0"
+      width="120"
+      height="40"
+      fill-opacity="0.2"
+      fill="#ffff00"
+      stroke="#8f8f3d"
+      pointer-events="all"
+      id="rect6" />
+    <g
+      transform="translate(-160.00197,-0.5)"
+      id="g6">
+      <text
+        x="540"
+        y="24"
+        fill="#8f8f3d"
+        font-family="Helvetica"
+        font-size="12px"
+        text-anchor="middle"
+      >Server</text>
+    </g>
+    <path
+      d="m 599.5,20 h 33.63"
+      fill="none"
+      stroke="#808080"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+      id="path7" />
+    <path
+      d="m 639.37803,20 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
+      fill="#808080"
+      stroke="#808080"
+      stroke-miterlimit="10"
+      pointer-events="all"
+      id="path8" />
+    <rect
+      x="480"
+      y="0"
+      width="120"
+      height="40"
+      fill-opacity="0.2"
+      fill="#80ff00"
+      stroke="#668f3d"
+      pointer-events="all"
+      id="rect8"
+      style="fill:#00ff00;fill-opacity:0.2;stroke:#3d8f3d;stroke-opacity:1" />
+    <g
+      transform="translate(-160.00197,-0.5)"
+      id="g8">
+      <text
+        x="700"
+        y="24"
+        fill="#3d8f3d"
+        font-family="Helvetica"
+        font-size="12px"
+        text-anchor="middle"
+      >Network</text>
+    </g>
+    <rect
+      x="640"
+      y="0"
+      width="120"
+      height="40"
+      fill-opacity="0.2"
+      fill="#00ff00"
+      stroke="#3d8f3d"
+      pointer-events="all"
+      id="rect9"
+      style="fill:#00ffff;fill-opacity:0.2;stroke:#3d8f8f;stroke-opacity:1" />
+    <g
+      transform="translate(-160,-0.5)"
+      id="g9">
+      <text
+        x="860"
+        y="24"
+        fill="#3d8f8f"
+        font-family="Helvetica"
+        font-size="12px"
+        text-anchor="middle"
+      >Frontend</text>
+    </g>
+    <rect
+      x="0"
+      y="0"
+      width="120"
+      height="40"
+      fill="none"
+      stroke="none"
+      pointer-events="all"
+      id="rect10" />
+    <g
+      transform="translate(-0.5,-0.5)"
+      id="g10">
+      <text
+        x="118"
+        y="24"
+        fill="#808080"
+        font-family="Helvetica"
+        font-size="12px"
+        text-anchor="end"
+        id="text10">OSM</text>
+    </g>
+    <path
+      d="m 119.5,20 h 33.63"
+      fill="none"
+      stroke="#808080"
+      stroke-miterlimit="10"
+      pointer-events="stroke"
+      id="path10" />
+    <path
+      d="m 158.88,20 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
+      fill="#808080"
+      stroke="#808080"
+      stroke-miterlimit="10"
+      pointer-events="all"
+      id="path11" />
   </g>
-  <path
-    d="m 119.5,20 h 33.63"
-    fill="none"
-    stroke="#808080"
-    stroke-miterlimit="10"
-    pointer-events="stroke"
-    id="path10" />
-  <path
-    d="m 158.88,20 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
-    fill="#808080"
-    stroke="#808080"
-    stroke-miterlimit="10"
-    pointer-events="all"
-    id="path11" />
- </g>
- <switch
-   id="switch12">
-  <g
-    requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-    id="g12" />
-  <a
-    transform="translate(0,-5)"
-    xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
-    target="_blank"
-    id="a12">
-   <text
-     text-anchor="middle"
-     font-size="10px"
-     x="50%"
-     y="100%"
-     id="text12">Text is not SVG - cannot display</text>
-  </a>
- </switch>
 </svg>
