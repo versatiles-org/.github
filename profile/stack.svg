@@ -1,81 +1,74 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 844 44">
 	<style>
-		#a { fill: hsla(0, 100%, 40%, 0.5); }
-		#b { fill: hsla(0, 100%, 40%, 0.5); }
+		#a, #c, #f, #h, #k, #m, #p, #r, #u { fill-opacity: 0.4; }
+		#d, #i, #n, #s { fill: none; stroke-width: 2px; }
+		#b, #e, #g, #j, #l, #o, #q, #t, #v { font-family: sans-serif; font-size: 16px; stroke: none; dominant-baseline: central; text-anchor: middle }
+		#a, #b { fill: hsla(0, 100%, 40%, 0.5); }
 		#c { fill: hsl(10, 100%, 40%); }
 		#d { stroke: hsl(10, 100%, 40%); }
 		#e { fill: hsl(10, 100%, 40%); }
-		#f { fill: hsla(30, 100%, 40%, 0.5); }
-		#g { fill: hsla(30, 100%, 40%, 0.5); }
+		#f, #g { fill: hsla(30, 100%, 40%, 0.5); }
 		#h { fill: hsl(50, 100%, 40%); }
 		#i { stroke: hsl(50, 100%, 40%); }
 		#j { fill: hsl(50, 100%, 40%); }
-		#k { fill: hsla(80, 100%, 40%, 0.5); }
-		#l { fill: hsla(80, 100%, 40%, 0.5); }
+		#k, #l { fill: hsla(80, 100%, 40%, 0.5); }
 		#m { fill: hsl(120, 100%, 40%); }
 		#n { stroke: hsl(120, 100%, 40%); }
 		#o { fill: hsl(120, 100%, 40%); }
-		#p { fill: hsla(150, 100%, 40%, 0.5); }
-		#q { fill: hsla(150, 100%, 40%, 0.5); }
+		#p, #q { fill: hsla(150, 100%, 40%, 0.5); }
 		#r { fill: hsl(200, 100%, 40%); }
 		#s { stroke: hsl(200, 100%, 40%); }
 		#t { fill: hsl(200, 100%, 40%); }
-		#u { fill: hsla(230, 100%, 40%, 0.5); }
-		#v { fill: hsla(230, 100%, 40%, 0.5); }
+		#u, #v { fill: hsla(230, 100%, 40%, 0.5); }
 
 		@media (prefers-color-scheme: dark) {
-			#a { fill: hsla(0, 100%, 60%, 0.5); }
-			#b { fill: hsla(0, 100%, 60%, 0.5); }
+			#a, #b { fill: hsla(0, 100%, 60%, 0.5); }
 			#c { fill: hsl(10, 100%, 60%); }
 			#d { stroke: hsl(10, 100%, 60%); }
 			#e { fill: hsl(10, 100%, 60%); }
-			#f { fill: hsla(30, 100%, 60%, 0.5); }
-			#g { fill: hsla(30, 100%, 60%, 0.5); }
+			#f, #g { fill: hsla(30, 100%, 60%, 0.5); }
 			#h { fill: hsl(50, 100%, 60%); }
 			#i { stroke: hsl(50, 100%, 60%); }
 			#j { fill: hsl(50, 100%, 60%); }
-			#k { fill: hsla(80, 100%, 60%, 0.5); }
-			#l { fill: hsla(80, 100%, 60%, 0.5); }
+			#k, #l { fill: hsla(80, 100%, 60%, 0.5); }
 			#m { fill: hsl(120, 100%, 60%); }
 			#n { stroke: hsl(120, 100%, 60%); }
 			#o { fill: hsl(120, 100%, 60%); }
-			#p { fill: hsla(150, 100%, 60%, 0.5); }
-			#q { fill: hsla(150, 100%, 60%, 0.5); }
+			#p, #q { fill: hsla(150, 100%, 60%, 0.5); }
 			#r { fill: hsl(200, 100%, 60%); }
 			#s { stroke: hsl(200, 100%, 60%); }
 			#t { fill: hsl(200, 100%, 60%); }
-			#u { fill: hsla(230, 100%, 60%, 0.5); }
-			#v { fill: hsla(230, 100%, 60%, 0.5); }
+			#u, #v { fill: hsla(230, 100%, 60%, 0.5); }
 		}
 	</style>
 	<g>
 		<g>
-			<path d="M0,0L20,20L0,40L60,40L80,20L60,0z" style="fill-opacity: 0.4;" id="a"></path>
-			<path d="M60,0L80,20L60,40L160,40L180,20L160,0z" style="fill-opacity: 0.4;" id="c"></path>
-			<path d="M160,0L180,20L160,40L260,40L280,20L260,0z" style="fill-opacity: 0.4;" id="f"></path>
-			<path d="M260,0L280,20L260,40L360,40L380,20L360,0z" style="fill-opacity: 0.4;" id="h"></path>
-			<path d="M360,0L380,20L360,40L460,40L480,20L460,0z" style="fill-opacity: 0.4;" id="k"></path>
-			<path d="M460,0L480,20L460,40L560,40L580,20L560,0z" style="fill-opacity: 0.4;" id="m"></path>
-			<path d="M560,0L580,20L560,40L660,40L680,20L660,0z" style="fill-opacity: 0.4;" id="p"></path>
-			<path d="M660,0L680,20L660,40L760,40L780,20L760,0z" style="fill-opacity: 0.4;" id="r"></path>
-			<path d="M760,0L780,20L760,40L820,40L840,20L820,0z" style="fill-opacity: 0.4;" id="u"></path>
+			<path d="M0,0L20,20L0,40L60,40L80,20L60,0z" id="a"></path>
+			<path d="M60,0L80,20L60,40L160,40L180,20L160,0z" id="c"></path>
+			<path d="M160,0L180,20L160,40L260,40L280,20L260,0z" id="f"></path>
+			<path d="M260,0L280,20L260,40L360,40L380,20L360,0z" id="h"></path>
+			<path d="M360,0L380,20L360,40L460,40L480,20L460,0z" id="k"></path>
+			<path d="M460,0L480,20L460,40L560,40L580,20L560,0z" id="m"></path>
+			<path d="M560,0L580,20L560,40L660,40L680,20L660,0z" id="p"></path>
+			<path d="M660,0L680,20L660,40L760,40L780,20L760,0z" id="r"></path>
+			<path d="M760,0L780,20L760,40L820,40L840,20L820,0z" id="u"></path>
 		</g>
 		<g>
-			<path d="M60,0L80,20L60,40L160,40L180,20L160,0z" style="fill: none; stroke-width: 2px;" id="d"></path>
-			<path d="M260,0L280,20L260,40L360,40L380,20L360,0z" style="fill: none; stroke-width: 2px;" id="i"></path>
-			<path d="M460,0L480,20L460,40L560,40L580,20L560,0z" style="fill: none; stroke-width: 2px;" id="n"></path>
-			<path d="M660,0L680,20L660,40L760,40L780,20L760,0z" style="fill: none; stroke-width: 2px;" id="s"></path>
+			<path d="M60,0L80,20L60,40L160,40L180,20L160,0z" id="d"></path>
+			<path d="M260,0L280,20L260,40L360,40L380,20L360,0z" id="i"></path>
+			<path d="M460,0L480,20L460,40L560,40L580,20L560,0z" id="n"></path>
+			<path d="M660,0L680,20L660,40L760,40L780,20L760,0z" id="s"></path>
 		</g>
 		<g>
-			<text x="43" y="20" style="font-family: sans-serif; font-size: 16px; stroke: none;" id="b" alignment-baseline="central" text-anchor="middle">Data</text>
-			<text x="123" y="20" style="font-family: sans-serif; font-size: 16px; stroke: none;" id="e" alignment-baseline="central" text-anchor="middle">Generator</text>
-			<text x="223" y="20" style="font-family: sans-serif; font-size: 16px; stroke: none;" id="g" alignment-baseline="central" text-anchor="middle">.versatiles</text>
-			<text x="323" y="20" style="font-family: sans-serif; font-size: 16px; stroke: none;" id="j" alignment-baseline="central" text-anchor="middle">Server</text>
-			<text x="423" y="20" style="font-family: sans-serif; font-size: 16px; stroke: none;" id="l" alignment-baseline="central" text-anchor="middle">HTTP</text>
-			<text x="523" y="20" style="font-family: sans-serif; font-size: 16px; stroke: none;" id="o" alignment-baseline="central" text-anchor="middle">Network</text>
-			<text x="623" y="20" style="font-family: sans-serif; font-size: 16px; stroke: none;" id="q" alignment-baseline="central" text-anchor="middle">HTTPS</text>
-			<text x="723" y="20" style="font-family: sans-serif; font-size: 16px; stroke: none;" id="t" alignment-baseline="central" text-anchor="middle">Frontend</text>
-			<text x="803" y="20" style="font-family: sans-serif; font-size: 16px; stroke: none;" id="v" alignment-baseline="central" text-anchor="middle">User</text>
+			<text x="43" y="20" id="b">Data</text>
+			<text x="123" y="20" id="e">Generator</text>
+			<text x="223" y="20" id="g">.versatiles</text>
+			<text x="323" y="20" id="j">Server</text>
+			<text x="423" y="20" id="l">HTTP</text>
+			<text x="523" y="20" id="o">Network</text>
+			<text x="623" y="20" id="q">HTTPS</text>
+			<text x="723" y="20" id="t">Frontend</text>
+			<text x="803" y="20" id="v">User</text>
 		</g>
 	</g>
 </svg>
