@@ -11,6 +11,8 @@ The stack has 4 parts:
 
 The core tool is also called [VersaTiles](https://github.com/versatiles-org/versatiles-rs), is written in Rust, handles tile conversion and includes a full server. We also provide [Docker containers](https://github.com/versatiles-org/versatiles-docker). You can [download all tiles for free](https://download.versatiles.org). More information can be found in the [documentation](https://docs.versatiles.org/)
 
+If you want to help, check issues tagged [`help wanted`](https://github.com/search?q=org%3Aversatiles-org+label%3A%22help+wanted%22+state%3Aopen&type=issues).
+
 Follow us on [Mastodon](https://mastodon.social/@VersaTiles) or [Bluesky](https://bsky.app/profile/versatiles.bsky.social).
 
 Visit us on [versatiles.org](https://versatiles.org).
