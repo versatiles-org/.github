@@ -5,8 +5,8 @@
 The stack has 4 parts:
 
 - **[Generator](https://github.com/versatiles-org/versatiles-generator):** [Tilemaker with Shortbread](https://github.com/versatiles-org/shortbread-tilemaker)
-- **[Server](https://docs.versatiles.org/basics/versatiles_server.html):** A high-performance, Rust-based server that efficiently serves tiles over HTTP
-- **[Network](https://github.com/versatiles-org/versatiles-documentation/blob/main/compendium/specification_reference_model.md#layer-network):** CDN/load balancer/nginx/Let's Encrypt, ...
+- **[Server](https://docs.versatiles.org/basics/versatiles_server):** A high-performance, Rust-based server that efficiently serves tiles over HTTP
+- **[Network](https://docs.versatiles.org/compendium/specification_reference_model#layer-network):** CDN/load balancer/nginx/Let's Encrypt, ...
 - **[Frontend]([https://github.com/versatiles-org/versatiles-frontend](https://docs.versatiles.org/basics/frontend.html)):** contains MapLibre, [styles, symbols](https://github.com/versatiles-org/versatiles-style), [fonts](https://github.com/versatiles-org/versatiles-fonts), ...
 
 The core tool is also called [VersaTiles](https://github.com/versatiles-org/versatiles-rs), is written in Rust, handles tile conversion and includes a full server. We also provide [Docker containers](https://github.com/versatiles-org/versatiles-docker). You can [download all tiles for free](https://download.versatiles.org). More information can be found in the [documentation](https://docs.versatiles.org/)
