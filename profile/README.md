@@ -1,4 +1,4 @@
-# VersaTiles is a free stack for generating and serving vector tiles.
+# VersaTiles is a free stack for generating and serving map tiles.
 
 <img src="https://github.com/versatiles-org/.github/raw/main/profile/stack.svg">
 
