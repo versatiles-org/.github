@@ -1,24 +1,71 @@
+<div align="center">
+
+<img src="https://versatiles.org/assets/logo/versatiles.svg" width="90" alt="VersaTiles logo">
+
 # VersaTiles
 
-**A free, open-source stack for generating and self-hosting map tiles** — build your own OpenStreetMap-based maps without per-view fees or vendor lock-in.
+**Self-host the whole map stack.**<br>
+No API keys, no per-view fees, no vendor lock-in.
 
-![The VersaTiles stack: from raw data to the user's browser](stack.svg)
+[![Latest release](https://img.shields.io/github/v/release/versatiles-org/versatiles-rs?label=versatiles)](https://github.com/versatiles-org/versatiles-rs/releases/latest)
+[![Docker pulls](https://img.shields.io/docker/pulls/versatiles/versatiles)](https://hub.docker.com/r/versatiles/versatiles)
+[![Documentation](https://img.shields.io/badge/docs-versatiles.org-blue)](https://docs.versatiles.org/)
 
-## The stack has 4 parts
+[Documentation](https://docs.versatiles.org/) · [Downloads](https://download.versatiles.org/) · [Playground](https://versatiles.org/playground/) · [versatiles.org](https://versatiles.org)
 
-- **[Data](https://docs.versatiles.org/guides/generate_tiles_from_osm):** [Planetiler with Shortbread](https://github.com/versatiles-org/versatiles-docker/tree/main/versatiles-planetiler)
-- **[Server](https://docs.versatiles.org/basics/versatiles_server):** A high-performance, Rust-based server that efficiently serves tiles over HTTP
-- **[Network](https://docs.versatiles.org/compendium/specification_reference_model#layer-network):** CDN/load balancer/nginx/Let's Encrypt, ...
-- **[Frontend](https://docs.versatiles.org/basics/frontend.html):** contains MapLibre, [styles, symbols](https://github.com/versatiles-org/versatiles-style), [fonts](https://github.com/versatiles-org/versatiles-fonts), ...
+</div>
 
-## Get started
+<table>
+<tr>
+<td><a href="https://versatiles.org/playground/"><img width="290" src="map-colorful.jpg" alt="Colorful vector style"></a></td>
+<td><a href="https://download.versatiles.org/"><img width="290" src="map-satellite.jpg" alt="Satellite imagery with vector overlay"></a></td>
+<td><a href="https://docs.versatiles.org/"><img width="290" src="map-terrain.jpg" alt="3D terrain with hillshading"></a></td>
+</tr>
+<tr>
+<td align="center"><b>Vector styles</b></td>
+<td align="center"><b>Satellite</b></td>
+<td align="center"><b>3D terrain</b></td>
+</tr>
+</table>
 
-The core tool is also called [VersaTiles](https://github.com/versatiles-org/versatiles-rs). It's written in Rust, handles tile conversion, and includes a full server. We also provide [Docker containers](https://github.com/versatiles-org/versatiles-docker).
+## Run your own tile server
 
-You can [download all tiles for free](https://download.versatiles.org), and everything is explained in the [documentation](https://docs.versatiles.org/).
+Our **[setup wizard](https://versatiles.org/tools/setup_server)** assembles the exact commands for your machine. Pick your platform, data and frontend, then copy and paste.
 
-## Support & community
+## Free data
 
-If your team relies on it, please support us on [GitHub](https://github.com/sponsors/versatiles-org) or [OpenCollective](https://opencollective.com/versatiles).
+Download planet-scale OpenStreetMap, satellite imagery, elevation, hillshading, landcover and bathymetry at **[download.versatiles.org](https://download.versatiles.org/)**.
 
-Follow us on [Mastodon](https://mastodon.social/@VersaTiles) or [Bluesky](https://bsky.app/profile/versatiles.bsky.social), and visit us on [versatiles.org](https://versatiles.org).
+## Used in production
+
+Newsrooms, transit agencies, researchers and public bodies run their maps on VersaTiles. See the [showcase gallery](https://docs.versatiles.org/showcases/) for 70+ live projects.
+
+## Where to look
+
+| I want to…                             | Use                                                                                                                                                                                                                              |
+|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Serve tiles**                        | [versatiles-rs](https://github.com/versatiles-org/versatiles-rs) · [versatiles-docker](https://github.com/versatiles-org/versatiles-docker) · [node-versatiles-server](https://github.com/versatiles-org/node-versatiles-server) |
+| **Build a web map**                    | [versatiles-frontend](https://github.com/versatiles-org/versatiles-frontend) · [versatiles-style](https://github.com/versatiles-org/versatiles-style) · [styler](https://github.com/versatiles-org/maplibre-versatiles-styler)   |
+| **Make my own tiles** from OSM         | [Planetiler + Shortbread](https://github.com/versatiles-org/versatiles-docker/tree/main/versatiles-planetiler) · [guide](https://docs.versatiles.org/guides/generate_tiles_from_osm)                                             |
+| **Deploy publicly** with CDN and nginx | our production setup at [tiles.versatiles.org](https://github.com/versatiles-org/tiles.versatiles.org)                                                                                                                           |
+| Understand the file format             | [versatiles-spec](https://github.com/versatiles-org/versatiles-spec)                                                                                                                                                             |
+| Read the fine manual                   | [versatiles-documentation](https://github.com/versatiles-org/versatiles-documentation)                                                                                                                                           |
+
+## Contribute
+
+If your team depends on VersaTiles, help keep it maintained via [GitHub Sponsors](https://github.com/sponsors/versatiles-org) or [OpenCollective](https://opencollective.com/versatiles).
+
+<div align="center">
+
+<a href="https://github.com/sponsors/versatiles-org"><img src="https://versatiles.org/sponsors/sponsors.svg" width="800" alt="VersaTiles sponsors"></a>
+
+<sub>Supported by</sub><br>
+<a href="https://nlnet.nl/"><img src="https://versatiles.org/assets/logo/nlnet-color.svg" height="40" alt="NLnet Foundation"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://nlnet.nl/core/"><img src="https://versatiles.org/assets/logo/ngi0core-color.svg" height="40" alt="NGI Zero Core"></a>
+
+<br><br>
+
+[Mastodon](https://mastodon.social/@VersaTiles) · [Bluesky](https://bsky.app/profile/versatiles.bsky.social) · [versatiles.org](https://versatiles.org)
+
+</div>
