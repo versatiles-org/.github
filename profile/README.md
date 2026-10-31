@@ -38,7 +38,7 @@ Download planet-scale OpenStreetMap, satellite imagery, elevation, hillshading, 
 
 ## Used in production
 
-Newsrooms, transit agencies, researchers and public bodies run their maps on VersaTiles. See the [showcase gallery](https://docs.versatiles.org/showcases/) for 70+ live projects.
+Newsrooms, transit agencies, researchers and public bodies run their maps on VersaTiles. See the [showcase gallery](https://versatiles.org/showcases/) for 100+ live projects.
 
 ## Where to look
 
