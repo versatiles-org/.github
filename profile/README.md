@@ -57,7 +57,7 @@ If your team depends on VersaTiles, help keep it maintained via [GitHub Sponsors
 
 <div align="center">
 
-<a href="https://github.com/sponsors/versatiles-org"><img src="https://versatiles.org/sponsors/sponsors.svg" width="800" alt="VersaTiles sponsors"></a>
+<a href="https://github.com/sponsors/versatiles-org"><img src="https://versatiles.org/sponsors/sponsors.png" width="800" alt="VersaTiles sponsors"></a>
 
 <sub>Supported by</sub><br>
 <a href="https://nlnet.nl/"><img src="https://versatiles.org/assets/logo/nlnet-color.svg" height="40" alt="NLnet Foundation"></a>
